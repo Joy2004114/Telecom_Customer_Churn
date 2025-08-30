@@ -98,5 +98,6 @@ Design and evaluate a machine learning pipeline that:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/telecom-customer-churn.git
-   cd telecom-customer-churn
+  git clone https://github.com/Joy2004114/Telecom_Customer_Churn.git
+  cd Telecom_Customer_Churn
+
